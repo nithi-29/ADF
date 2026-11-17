@@ -1,0 +1,15 @@
+{
+	"name": "dfpropractice11",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "29f1bd63-3a40-4217-9619-a784200e89ef",
+		"tenantId": "b296f38f-787d-4e85-a1c8-020f792250b2"
+	}
+}
